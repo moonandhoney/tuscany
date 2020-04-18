@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html><head>
+<meta charset="UTF-8">
+<title>Gallery: Baked Goods</title>
+<style>
+body {
+  background-color: #faf2e4;
+  margin: 0 10%;
+  font-family: sans-serif;
+  text-align: center;
+  }
+
+h1 {
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 1px solid #57b1dc;
+  margin-top: 30px;
+}
+
+h2 {
+  color: #d1633c;
+  font-size: 1em;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1>Gallery: Baked Goods</h1>
+<p><img src="https://i.imgur.com/0FaQg0k.jpg" alt="Bread" width="400" height="400"></p>
+<p><a href="https://moonandhoney.github.io/tuscany/">[Back to Gallery]</a></p>
+
+
+</body></html>
